@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # End to End Text Summarizer Project 📚
 
 ## Workflows 🚀
@@ -20,7 +19,7 @@
 👯‍♂️ Clone the repository
 
 
-https://github.com/Prathamesh1199/Text-summarization-project
+https://github.com/Prathamesh1199/Text-summarization_project
 
 
 📦 Create a conda environment after opening the repository
@@ -117,6 +116,4 @@ python app.py
     AWS_ECR_LOGIN_URI = demo >> 566373416292.dkr.ecr.ap-south-1.amazonaws.com
 
     ECR_REPOSITORY_NAME = simple-app 📦
-=======
-# project
->>>>>>> db3dbf9602cd27705e53a3c7eff195af247206af
+
